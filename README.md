@@ -58,7 +58,7 @@
 
   <br>
 
-  <div style="display: flex; gap: 60px;">
+  <div style="display: flex; gap: 2px;">
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats-kyss.vercel.app?user=Tiefin-Coulibaly&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
     </a>
