@@ -7,8 +7,6 @@
 
 - 🤝 I’m open to collaborating with **developers and GIS professionals on meaningful projects.**
 
-- 👨‍💻 All of my projects are available at [https://mamadoucoulibalyportfolio.vercel.app/](https://mamadoucoulibalyportfolio.vercel.app/)
-
 
 <p>&nbsp;</p>
 <details open>
