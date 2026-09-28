@@ -89,4 +89,83 @@ const mamadou = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.39%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 137.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 318 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 74 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                490 commits         ███████░░░░░░░░░░░░░░░░░░   28.03 % 
+🌆 Daytime                518 commits         ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+🌃 Evening                636 commits         █████████░░░░░░░░░░░░░░░░   36.38 % 
+🌙 Night                  104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Tuesday                  277 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Wednesday                253 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Thursday                 283 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Friday                   252 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Saturday                 217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Sunday                   229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Regina
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   49 repos            ████████████████░░░░░░░░░   62.82 % 
+TypeScript               15 repos            █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Jupyter Notebook         5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Tiefin-Coulibaly/Tiefin-Coulibaly/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/09/2026 21:52:25 UTC
 <!--END_SECTION:waka-->
