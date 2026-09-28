@@ -1,69 +1,92 @@
-<h1 align="center">Hi 👋, I'm Mamadou Coulibaly</h1>
-<h3 align="center">A bilingual (English/French) Full Stack Developer & GIS Specialit passionate about building smart, data-driven solutions.</h3>
+<p align="center">
+  <img src="./name.svg" alt="Mamadou Coulibaly" width="800" />
+</p>
 
-- 🔭 I’m currently working on **a web app to track concussion symptoms and weekly progress, helping caregivers and engaging patients in their recovery.**
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Akwaba 👋🏾, I'm Mamadou Coulibaly! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software Engineer · GIS Specialist · AI Engineer — Programmer Analyst at the <a href="https://www.regina.ca">City of Regina</a>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</em></p>
 
-- 🌱 I’m always learning **and exploring everything related to full stack development and GIS.**
+[![LinkedIn](https://img.shields.io/badge/-Mamadou%20Coulibaly-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tiefin-mamadou-coulibaly/)
+![GitHub followers](https://img.shields.io/github/followers/Tiefin-Coulibaly?label=Follow&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=Tiefin-Coulibaly&label=Profile%20views&color=0e75b6&style=flat)
+![Waka Readme](https://github.com/Tiefin-Coulibaly/Tiefin-Coulibaly/actions/workflows/waka-readme.yml/badge.svg)
 
-- 🤝 I’m open to collaborating with **developers and GIS professionals on meaningful projects.**
+I build **AI-powered geospatial applications** — full-stack web mapping, spatial databases, and local-first AI tools that solve real day-to-day problems for GIS professionals.
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-<p>&nbsp;</p>
-<details open>
-  <summary><h3 align="left">💬 Connect with me:</h3></summary>
+```javascript
+const mamadou = {
+  name: "Mamadou Tiefin Coulibaly",
+  basedIn: "Regina, Saskatchewan, Canada 🇨🇦",
+  from: "Côte d'Ivoire 🇨🇮",
+  spokenLanguages: ["French", "English"],
+  education: "Master's in Geomatics",
+  codeLanguages: ["TypeScript", "JavaScript", "Python", "SQL"],
 
-  <br>
+  askMeAbout: [
+    "AI-powered GIS applications",
+    "web mapping",
+    "spatial databases & PostGIS",
+    "RAG pipelines",
+    "geoprocessing automation",
+    "municipal asset data management"
+  ],
 
-  <a href="https://www.linkedin.com/in/tiefin-mamadou-coulibaly/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="30" />
-  </a>
+  technologies: {
+    frontend: {
+      frameworks: ["Next.js", "React"],
+      styling: ["Tailwind CSS", "Sass", "Bootstrap"],
+      mapping: ["MapLibre GL", "ArcGIS Maps SDK for JavaScript"]
+    },
 
-</details>
+    backend: {
+      node: ["Node.js", "Express", "NestJS"],
+      python: ["FastAPI"],
+      orm: ["Prisma"]
+    },
 
+    gis: {
+      esri: [
+        "ArcGIS Enterprise",
+        "ArcGIS Pro",
+        "ArcGIS Online",
+        "Field Maps",
+        "Experience Builder"
+      ],
+      openSource: ["QGIS", "PostGIS", "GeoServer", "Shapely", "Rasterio"],
+      etl: ["FME Workbench", "FME Flow", "arcpy"]
+    },
 
-<details open>
-  <summary><h3 align="left">👨‍💻 Programming Languages:</h3></summary>
+    databases: {
+      spatial: ["PostgreSQL/PostGIS", "Oracle SDE"],
+      relational: ["MySQL"],
+      nosql: ["MongoDB"],
+      platforms: ["Supabase"]
+    },
 
-  <br>
+    ai: {
+      frameworks: ["LangChain"],
+      patterns: ["RAG", "text-to-SQL", "AI agents"],
+      runtime: ["Ollama", "ONNX Runtime"],
+      geoAI: ["SAM-Geo"]
+    },
 
-  [![My Skills](https://skillicons.dev/icons?i=ts,js,cs,python)](https://skillicons.dev)
+    devOps: {
+      tools: ["Docker", "Git", "GitHub Actions", "Jenkins"],
+      hosting: ["Vercel", "Netlify", "Hetzner"]
+    }
+  },
 
-</details>
+  currentFocus: "Local-first, open-source AI tools for GIS professionals",
+  funFact: "From Bouaké to Regina: same love for maps, about 50°C colder"
+};
+```
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with GIS and AI people</b> — if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
 
-<details>
-  <summary><h3>🛠️ Frameworks and tools:</h3></summary>
-
-  <br>
-
-  [![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,express,nestjs,dotnet,electron,prisma,tailwind,bootstrap,sass,supabase,git,github,jenkins,jest,jquery,netlify,vercel,vscode,visualstudio)](https://skillicons.dev)
-
-</details>
-
-
-<details>
-  <summary><h3 align="left">🛢️ Databases</h3></summary>
-
-  <br>
-
-  [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
-
-</details>
-
-
-<details open>
-  <summary><h3>🔥 GitHub Activity</h3></summary>
-
-  <br>
-
-  <div style="display: flex; gap: 2px;">
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats-kyss.vercel.app?user=Tiefin-Coulibaly&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
-    </a>
-    <img src="https://github-readme-stats-vert-phi-73.vercel.app/api?username=Tiefin-Coulibaly&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  </div>
-
-</details>
-
-
-
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
