@@ -95,7 +95,7 @@ const mamadou = {
 
 **🐱 My GitHub Data** 
 
-> 📦 137.8 kB Used in GitHub's Storage 
+> 📦 138.6 kB Used in GitHub's Storage 
  > 
 > 🏆 318 Contributions in the Year 2026
  > 
@@ -108,21 +108,21 @@ const mamadou = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                490 commits         ███████░░░░░░░░░░░░░░░░░░   28.03 % 
-🌆 Daytime                518 commits         ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-🌃 Evening                636 commits         █████████░░░░░░░░░░░░░░░░   36.38 % 
+🌞 Morning                490 commits         ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+🌆 Daytime                519 commits         ███████░░░░░░░░░░░░░░░░░░   29.67 % 
+🌃 Evening                636 commits         █████████░░░░░░░░░░░░░░░░   36.36 % 
 🌙 Night                  104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Tuesday                  277 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Wednesday                253 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Thursday                 283 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Friday                   252 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Monday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Tuesday                  277 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Wednesday                254 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Thursday                 283 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Friday                   252 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
 Saturday                 217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Sunday                   229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Sunday                   229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 ```
 
 
@@ -132,22 +132,44 @@ Sunday                   229 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Regina
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               8 hrs 43 mins       ████████████████░░░░░░░░░   64.18 % 
+Markdown                 3 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.86 % 
+Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+HTML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              11 hrs              ████████████████████░░░░░   81.09 % 
+WebStorm                 2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+talk-to-postgis          13 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  13 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 11 hrs 30 mins (84.76%)
+
+✍️ 17,095 lines written by AI, 16 lines written by hand (99.91% AI-written)
+
+🔤 6,096,240 Input Tokens, 913,486 Output Tokens
+
+💵 $128.39 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 86 AI Prompts
+
+Opus                     12,452 lines        █████████████████░░░░░░░░   68.88 % 
+Sonnet                   5,627 lines         ████████░░░░░░░░░░░░░░░░░   31.12 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.91% of written lines came from AI
+📚 Verbose Prompter — average 1,537 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -167,5 +189,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiefin-Coulibaly/Tiefin-Coulibaly/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 12:26:56 UTC
+ Last Updated on 01/10/2026 13:01:48 UTC
 <!--END_SECTION:waka-->
