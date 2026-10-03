@@ -89,6 +89,10 @@ const mamadou = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2015%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2048%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.39%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -130,44 +134,44 @@ Sunday                   229 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Regina
 
 💬 Programming Languages: 
-TypeScript               8 hrs 14 mins       ████████████████░░░░░░░░░   65.54 % 
-Markdown                 3 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+TypeScript               7 hrs 57 mins       █████████████████░░░░░░░░   69.04 % 
+Markdown                 2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-Claude Code              10 hrs              ████████████████████░░░░░   79.56 % 
-WebStorm                 2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+Claude Code              8 hrs 57 mins       ███████████████████░░░░░░   77.70 % 
+WebStorm                 2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
 
 🐱‍💻 Projects: 
-talk-to-postgis          12 hrs 34 mins      █████████████████████████   100.00 % 
+talk-to-postgis          11 hrs 31 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs 34 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 30 mins (83.53%)
+⏱ AI Coding Time: 9 hrs 27 mins (82.03%)
 
-✍️ 16,010 lines written by AI, 16 lines written by hand (99.9% AI-written)
+✍️ 15,925 lines written by AI, 16 lines written by hand (99.9% AI-written)
 
-🔤 5,471,070 Input Tokens, 856,676 Output Tokens
+🔤 4,855,392 Input Tokens, 829,338 Output Tokens
 
-💵 $115.09 Estimated AI Cost This Week
+💵 $107.24 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 82 AI Prompts
+🧠 6 AI Sessions, 78 AI Prompts
 
-Opus                     11,349 lines        █████████████████░░░░░░░░   66.85 % 
-Sonnet                   5,627 lines         ████████░░░░░░░░░░░░░░░░░   33.15 % 
+Opus                     11,130 lines        █████████████████░░░░░░░░   66.42 % 
+Sonnet                   5,627 lines         ████████░░░░░░░░░░░░░░░░░   33.58 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.9% of written lines came from AI
-📚 Verbose Prompter — average 1,606 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+📚 Verbose Prompter — average 1,681 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -187,5 +191,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiefin-Coulibaly/Tiefin-Coulibaly/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 12:23:11 UTC
+ Last Updated on 03/10/2026 11:33:37 UTC
 <!--END_SECTION:waka-->
