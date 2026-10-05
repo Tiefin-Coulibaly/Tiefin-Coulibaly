@@ -134,44 +134,44 @@ Sunday                   229 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Regina
 
 💬 Programming Languages: 
-TypeScript               6 hrs 46 mins       ███████████████████░░░░░░   75.42 % 
-Markdown                 1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+TypeScript               3 hrs 58 mins       ██████████████████░░░░░░░   72.29 % 
+Markdown                 1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 24 mins       ██████████████████░░░░░░░   71.38 % 
-WebStorm                 2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+Claude Code              2 hrs 56 mins       █████████████░░░░░░░░░░░░   53.31 % 
+WebStorm                 2 hrs 34 mins       ████████████░░░░░░░░░░░░░   46.69 % 
 
 🐱‍💻 Projects: 
-talk-to-postgis          8 hrs 58 mins       █████████████████████████   100.00 % 
+talk-to-postgis          5 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 54 mins (76.94%)
+⏱ AI Coding Time: 3 hrs 25 mins (62.37%)
 
-✍️ 14,098 lines written by AI, 16 lines written by hand (99.89% AI-written)
+✍️ 5,249 lines written by AI, 16 lines written by hand (99.7% AI-written)
 
-🔤 2,946,318 Input Tokens, 673,040 Output Tokens
+🔤 1,354,466 Input Tokens, 323,514 Output Tokens
 
-💵 $64.12 Estimated AI Cost This Week
+💵 $27.24 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 67 AI Prompts
+🧠 3 AI Sessions, 25 AI Prompts
 
-Opus                     8,925 lines         ███████████████░░░░░░░░░░   61.33 % 
-Sonnet                   5,627 lines         ██████████░░░░░░░░░░░░░░░   38.67 % 
+Opus                     5,378 lines         ████████████████████████░   97.80 % 
+Sonnet                   121 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📚 Verbose Prompter — average 1,667 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 0.11% of changed lines were hand-edited
+🤖 AI-Driven — 99.7% of written lines came from AI
+📄 Detailed Prompter — average 684 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -191,5 +191,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiefin-Coulibaly/Tiefin-Coulibaly/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 12:14:43 UTC
+ Last Updated on 05/10/2026 14:25:39 UTC
 <!--END_SECTION:waka-->
