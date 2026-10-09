@@ -89,15 +89,15 @@ const mamadou = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%201%20min-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.39%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 138.6 kB Used in GitHub's Storage 
+> 📦 138.7 kB Used in GitHub's Storage 
  > 
 > 🏆 449 Contributions in the Year 2026
  > 
@@ -134,42 +134,50 @@ Sunday                   229 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Regina
 
 💬 Programming Languages: 
-Python                   9 mins              ██████████░░░░░░░░░░░░░░░   41.69 % 
-TypeScript               9 mins              ██████████░░░░░░░░░░░░░░░   41.00 % 
-Markdown                 4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+TypeScript               29 mins             ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+SQL                      27 mins             ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+JSON                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Python                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+GitIgnore file           9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 
 🔥 Editors: 
-Claude Code              12 mins             ██████████████░░░░░░░░░░░   55.27 % 
-WebStorm                 10 mins             ███████████░░░░░░░░░░░░░░   44.73 % 
+WebStorm                 53 mins             ████████████░░░░░░░░░░░░░   46.42 % 
+DataGrip                 27 mins             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+Claude Code              25 mins             █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
+PyCharm                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 
 🐱‍💻 Projects: 
-talk-to-postgis          23 mins             █████████████████████████   100.00 % 
+san-pedro-digitalization-50 mins             ███████████░░░░░░░░░░░░░░   43.60 % 
+talk-to-postgis          28 mins             ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
+GIS                      22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+field_alias_alterator    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+default                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (55.62%)
+⏱ AI Coding Time: 27 mins (23.55%)
 
-✍️ 173 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 207 lines written by AI, 13 lines written by hand (94.09% AI-written)
 
-🔤 86,125 Input Tokens, 16,710 Output Tokens
+🔤 139,509 Input Tokens, 33,634 Output Tokens
 
-💵 $3.30 Estimated AI Cost This Week
+💵 $4.38 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 2 AI Sessions, 8 AI Prompts
 
-Opus                     325 lines           ██████████████████░░░░░░░   72.87 % 
-Sonnet                   121 lines           ███████░░░░░░░░░░░░░░░░░░   27.13 % 
+Opus                     359 lines           ███████████████████░░░░░░   74.79 % 
+Sonnet                   121 lines           ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 222 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 94.09% of written lines came from AI
+📚 Verbose Prompter — average 2,769 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 9.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -189,5 +197,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiefin-Coulibaly/Tiefin-Coulibaly/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 13:19:09 UTC
+ Last Updated on 09/10/2026 13:06:27 UTC
 <!--END_SECTION:waka-->
