@@ -89,9 +89,9 @@ const mamadou = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2016%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.39%20million%20lines%20of%20code-blue?style=flat)
 
@@ -134,35 +134,35 @@ Sunday                   229 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Regina
 
 💬 Programming Languages: 
-TypeScript               29 mins             ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
-SQL                      27 mins             ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
-JSON                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-Python                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-GitIgnore file           9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+SQL                      1 hr 56 mins        ██████████████░░░░░░░░░░░   57.07 % 
+TypeScript               29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+JSON                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+GitIgnore file           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 
 🔥 Editors: 
-WebStorm                 53 mins             ████████████░░░░░░░░░░░░░   46.42 % 
-DataGrip                 27 mins             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-Claude Code              25 mins             █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-PyCharm                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+DataGrip                 1 hr 56 mins        ██████████████░░░░░░░░░░░   57.03 % 
+WebStorm                 53 mins             ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+Claude Code              25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+PyCharm                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🐱‍💻 Projects: 
-san-pedro-digitalization-50 mins             ███████████░░░░░░░░░░░░░░   43.60 % 
-talk-to-postgis          28 mins             ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-GIS                      22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-field_alias_alterator    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-default                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+default                  1 hr 23 mins        ██████████░░░░░░░░░░░░░░░   40.86 % 
+san-pedro-digitalization-50 mins             ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+talk-to-postgis          28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+GIS                      23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 💻 Operating System: 
-Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 mins (23.55%)
+⏱ AI Coding Time: 27 mins (13.31%)
 
-✍️ 207 lines written by AI, 13 lines written by hand (94.09% AI-written)
+✍️ 207 lines written by AI, 21 lines written by hand (90.79% AI-written)
 
 🔤 139,509 Input Tokens, 33,634 Output Tokens
 
@@ -174,10 +174,10 @@ Opus                     359 lines           ███████████�
 Sonnet                   121 lines           ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.09% of written lines came from AI
+🤖 AI-Driven — 90.79% of written lines came from AI
 📚 Verbose Prompter — average 2,769 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 9.61% of changed lines were hand-edited
+🚀 High AI Trust — 13.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -197,5 +197,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiefin-Coulibaly/Tiefin-Coulibaly/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 13:06:27 UTC
+ Last Updated on 10/10/2026 12:22:43 UTC
 <!--END_SECTION:waka-->
