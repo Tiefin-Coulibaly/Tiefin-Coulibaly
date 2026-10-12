@@ -89,17 +89,17 @@ const mamadou = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2048%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.39%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.49%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 138.7 kB Used in GitHub's Storage 
+> 📦 139.1 kB Used in GitHub's Storage 
  > 
-> 🏆 449 Contributions in the Year 2026
+> 🏆 457 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,21 +110,21 @@ const mamadou = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                491 commits         ███████░░░░░░░░░░░░░░░░░░   28.04 % 
-🌆 Daytime                519 commits         ███████░░░░░░░░░░░░░░░░░░   29.64 % 
-🌃 Evening                636 commits         █████████░░░░░░░░░░░░░░░░   36.32 % 
-🌙 Night                  105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+🌞 Morning                502 commits         ███████░░░░░░░░░░░░░░░░░░   28.31 % 
+🌆 Daytime                527 commits         ███████░░░░░░░░░░░░░░░░░░   29.72 % 
+🌃 Evening                637 commits         █████████░░░░░░░░░░░░░░░░   35.93 % 
+🌙 Night                  107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Tuesday                  277 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Wednesday                254 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Thursday                 285 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Friday                   252 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Saturday                 217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Sunday                   229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Monday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Tuesday                  277 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Wednesday                254 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Thursday                 292 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Friday                   252 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Saturday                 220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Sunday                   241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
 ```
 
 
@@ -134,60 +134,60 @@ Sunday                   229 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Regina
 
 💬 Programming Languages: 
-TypeScript               2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.93 % 
-SQL                      1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   28.28 % 
-YAML                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-JSON                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+TypeScript               4 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   35.45 % 
+YAML                     2 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+SQL                      1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Markdown                 1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+JSON                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 
 🔥 Editors: 
-WebStorm                 3 hrs 56 mins       ██████████████░░░░░░░░░░░   57.16 % 
-DataGrip                 1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   28.27 % 
-Claude Code              51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-PyCharm                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+WebStorm                 7 hrs 17 mins       █████████████░░░░░░░░░░░░   53.95 % 
+Claude Code              4 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.54 % 
+DataGrip                 1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+PyCharm                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🐱‍💻 Projects: 
-san-pedro-digitalization-4 hrs 18 mins       ████████████████░░░░░░░░░   62.66 % 
-default                  1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-talk-to-postgis          28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-GIS                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+san-pedro-digitalization-10 hrs 56 mins      ████████████████████░░░░░   80.97 % 
+default                  1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+talk-to-postgis          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+GIS                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 💻 Operating System: 
-Windows                  6 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 59 mins (14.41%)
+⏱ AI Coding Time: 4 hrs 58 mins (36.81%)
 
-✍️ 260 lines written by AI, 46 lines written by hand (84.97% AI-written)
+✍️ 3,172 lines written by AI, 158 lines written by hand (95.26% AI-written)
 
-🔤 338,551 Input Tokens, 58,348 Output Tokens
+🔤 1,200,116 Input Tokens, 293,547 Output Tokens
 
-💵 $6.42 Estimated AI Cost This Week
+💵 $24.23 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 12 AI Prompts
+🧠 4 AI Sessions, 49 AI Prompts
 
-Opus                     418 lines           ███████████████████░░░░░░   77.55 % 
-Sonnet                   121 lines           ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Opus                     3,406 lines         ████████████████████████░   96.57 % 
+Sonnet                   121 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.97% of written lines came from AI
-📚 Verbose Prompter — average 1,876 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 18.65% of changed lines were hand-edited
+🤖 AI-Driven — 95.26% of written lines came from AI
+📄 Detailed Prompter — average 958 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 11.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   49 repos            ████████████████░░░░░░░░░   62.82 % 
-TypeScript               15 repos            █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Jupyter Notebook         5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Python                   49 repos            ████████████████░░░░░░░░░   62.03 % 
+TypeScript               16 repos            █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Jupyter Notebook         5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 ```
 
 
@@ -197,5 +197,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiefin-Coulibaly/Tiefin-Coulibaly/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 12:39:12 UTC
+ Last Updated on 12/10/2026 15:12:40 UTC
 <!--END_SECTION:waka-->
