@@ -89,9 +89,9 @@ const mamadou = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2042%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.43%20million%20lines%20of%20code-blue?style=flat)
 
@@ -134,51 +134,51 @@ Sunday                   233 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Regina
 
 💬 Programming Languages: 
-YAML                     7 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   34.57 % 
-TypeScript               4 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-Markdown                 2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-JSON                     2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-SQL                      2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+YAML                     7 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   34.94 % 
+TypeScript               4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Markdown                 2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+JSON                     2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+SQL                      2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
 
 🔥 Editors: 
-WebStorm                 12 hrs 57 mins      ███████████████░░░░░░░░░░   61.75 % 
-Claude Code              5 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   27.71 % 
-DataGrip                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-PyCharm                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+WebStorm                 14 hrs 3 mins       ████████████████░░░░░░░░░   63.08 % 
+Claude Code              5 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+DataGrip                 2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+PyCharm                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-san-pedro-digitalization-18 hrs 20 mins      ██████████████████████░░░   87.40 % 
-default                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-talk-to-postgis          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-GIS                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Unknown Project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+san-pedro-digitalization-19 hrs 45 mins      ██████████████████████░░░   88.69 % 
+default                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+GIS                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+field_alias_alterator    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Unknown Project          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Operating System: 
-Windows                  20 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 36 mins (36.27%)
+⏱ AI Coding Time: 7 hrs 41 mins (34.5%)
 
-✍️ 4,260 lines written by AI, 219 lines written by hand (95.11% AI-written)
+✍️ 4,168 lines written by AI, 222 lines written by hand (94.94% AI-written)
 
-🔤 1,905,653 Input Tokens, 401,414 Output Tokens
+🔤 2,031,940 Input Tokens, 397,636 Output Tokens
 
-💵 $32.62 Estimated AI Cost This Week
+💵 $32.64 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 78 AI Prompts
+🧠 9 AI Sessions, 83 AI Prompts
 
-Opus                     4,494 lines         ████████████████████████░   97.38 % 
-Sonnet                   121 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Opus                     4,402 lines         ████████████████████████░   97.32 % 
+Sonnet                   121 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.11% of written lines came from AI
-📄 Detailed Prompter — average 891 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 9.71% of changed lines were hand-edited
+🤖 AI-Driven — 94.94% of written lines came from AI
+📄 Detailed Prompter — average 893 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 10.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -198,5 +198,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiefin-Coulibaly/Tiefin-Coulibaly/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 11:19:50 UTC
+ Last Updated on 16/10/2026 11:14:02 UTC
 <!--END_SECTION:waka-->
