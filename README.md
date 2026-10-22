@@ -89,7 +89,7 @@ const mamadou = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%206%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%205%20mins-blue?style=flat)
 
@@ -134,50 +134,50 @@ Sunday                   241 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Regina
 
 💬 Programming Languages: 
-SQL                      3 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   28.63 % 
-JSON                     2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
-TOML                     1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Markdown                 1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-YAML                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+SQL                      3 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   38.87 % 
+Markdown                 1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+JSON                     1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+TOML                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+YAML                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 
 🔥 Editors: 
-WebStorm                 7 hrs 10 mins       █████████████████░░░░░░░░   67.92 % 
-Claude Code              1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-DataGrip                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-PyCharm                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Copilot CLI              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+WebStorm                 6 hrs 58 mins       ██████████████████░░░░░░░   70.70 % 
+Claude Code              1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+DataGrip                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+PyCharm                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Copilot CLI              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🐱‍💻 Projects: 
-san-pedro-digitalization-9 hrs 12 mins       ██████████████████████░░░   87.16 % 
-default                  48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-field_alias_alterator    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-feature_class_creator    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+san-pedro-digitalization-8 hrs 34 mins       ██████████████████████░░░   87.08 % 
+default                  44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+field_alias_alterator    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+feature_class_creator    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Windows                  10 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 34 mins (33.87%)
+⏱ AI Coding Time: 2 hrs 39 mins (27.0%)
 
-✍️ 827 lines written by AI, 46 lines written by hand (94.73% AI-written)
+✍️ 827 lines written by AI, 44 lines written by hand (94.95% AI-written)
 
-🔤 941,180 Input Tokens, 143,081 Output Tokens
+🔤 891,504 Input Tokens, 131,499 Output Tokens
 
-💵 $13.00 Estimated AI Cost This Week
+💵 $12.35 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 44 AI Prompts
+🧠 5 AI Sessions, 33 AI Prompts
 
 Opus                     969 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.73% of written lines came from AI
-📄 Detailed Prompter — average 632 characters per prompt
+🤖 AI-Driven — 94.95% of written lines came from AI
+📄 Detailed Prompter — average 813 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 13.45% of changed lines were hand-edited
+🚀 High AI Trust — 13.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -197,5 +197,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiefin-Coulibaly/Tiefin-Coulibaly/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 11:39:50 UTC
+ Last Updated on 22/10/2026 11:39:46 UTC
 <!--END_SECTION:waka-->
