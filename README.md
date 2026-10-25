@@ -89,9 +89,9 @@ const mamadou = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2029%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.53%20million%20lines%20of%20code-blue?style=flat)
 
@@ -110,9 +110,9 @@ const mamadou = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                505 commits         ███████░░░░░░░░░░░░░░░░░░   28.10 % 
-🌆 Daytime                537 commits         ███████░░░░░░░░░░░░░░░░░░   29.88 % 
-🌃 Evening                648 commits         █████████░░░░░░░░░░░░░░░░   36.06 % 
+🌞 Morning                506 commits         ███████░░░░░░░░░░░░░░░░░░   28.14 % 
+🌆 Daytime                537 commits         ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+🌃 Evening                648 commits         █████████░░░░░░░░░░░░░░░░   36.04 % 
 🌙 Night                  107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -122,9 +122,9 @@ Monday                   243 commits         ███░░░░░░░░�
 Tuesday                  277 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
 Wednesday                261 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
 Thursday                 293 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Friday                   262 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Saturday                 220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Sunday                   241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Friday                   262 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Saturday                 221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Sunday                   241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
 ```
 
 
@@ -134,46 +134,47 @@ Sunday                   241 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Regina
 
 💬 Programming Languages: 
-SQL                      4 hrs 56 mins       ██████████████░░░░░░░░░░░   54.21 % 
-TOML                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Markdown                 1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-TypeScript               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+SQL                      6 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   41.01 % 
+TypeScript               4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Markdown                 3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🔥 Editors: 
-WebStorm                 7 hrs 27 mins       ████████████████████░░░░░   81.92 % 
-Claude Code              1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Copilot CLI              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-DataGrip                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+WebStorm                 12 hrs 3 mins       ██████████████████░░░░░░░   71.00 % 
+Claude Code              4 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.71 % 
+Copilot CLI              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+DataGrip                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🐱‍💻 Projects: 
-san-pedro-digitalization-8 hrs 57 mins       █████████████████████████   98.31 % 
-default                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+san-pedro-digitalization-16 hrs 50 mins      █████████████████████████   99.09 % 
+default                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-Windows                  9 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  16 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 30 mins (27.52%)
+⏱ AI Coding Time: 6 hrs 26 mins (37.95%)
 
-✍️ 764 lines written by AI, 14 lines written by hand (98.2% AI-written)
+✍️ 2,259 lines written by AI, 36 lines written by hand (98.43% AI-written)
 
-🔤 916,679 Input Tokens, 124,121 Output Tokens
+🔤 2,610,823 Input Tokens, 373,044 Output Tokens
 
-💵 $12.67 Estimated AI Cost This Week
+💵 $31.67 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 29 AI Prompts
+🧠 6 AI Sessions, 59 AI Prompts
 
-Opus                     906 lines           █████████████████████████   100.00 % 
+Opus                     2,529 lines         █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.2% of written lines came from AI
-📄 Detailed Prompter — average 759 characters per prompt
+🤖 AI-Driven — 98.43% of written lines came from AI
+📄 Detailed Prompter — average 674 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 2.62% of changed lines were hand-edited
+🚀 High AI Trust — 1.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -193,5 +194,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiefin-Coulibaly/Tiefin-Coulibaly/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 10:48:01 UTC
+ Last Updated on 25/10/2026 11:13:31 UTC
 <!--END_SECTION:waka-->
