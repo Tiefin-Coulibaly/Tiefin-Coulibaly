@@ -89,15 +89,15 @@ const mamadou = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.54%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 140.2 kB Used in GitHub's Storage 
+> 📦 140.4 kB Used in GitHub's Storage 
  > 
 > 🏆 483 Contributions in the Year 2026
  > 
@@ -134,49 +134,49 @@ Sunday                   241 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Regina
 
 💬 Programming Languages: 
-SQL                      5 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   36.27 % 
-TypeScript               4 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-Markdown                 3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-JSON                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+SQL                      5 hrs 3 mins        ███████████░░░░░░░░░░░░░░   45.00 % 
+Markdown                 2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+TypeScript               1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+JSON                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Python                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 🔥 Editors: 
-WebStorm                 8 hrs 40 mins       ██████████████░░░░░░░░░░░   57.57 % 
-Claude Code              5 hrs               ████████░░░░░░░░░░░░░░░░░   33.22 % 
-DataGrip                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-PyCharm                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+WebStorm                 5 hrs 5 mins        ███████████░░░░░░░░░░░░░░   45.37 % 
+Claude Code              4 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.08 % 
+PyCharm                  1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+DataGrip                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
 
 🐱‍💻 Projects: 
-san-pedro-digitalization-13 hrs 41 mins      ███████████████████████░░   90.79 % 
-default                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-feature_class_creator    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-Unknown Project          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-field_alias_alterator    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+san-pedro-digitalization-9 hrs 15 mins       █████████████████████░░░░   82.45 % 
+default                  46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+PythonProject3           32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+feature_class_creator    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Unknown Project          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 💻 Operating System: 
-Windows                  15 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 12 mins (41.19%)
+⏱ AI Coding Time: 5 hrs (44.62%)
 
-✍️ 2,686 lines written by AI, 78 lines written by hand (97.18% AI-written)
+✍️ 2,725 lines written by AI, 90 lines written by hand (96.8% AI-written)
 
-🔤 1,692,747 Input Tokens, 336,869 Output Tokens
+🔤 1,240,546 Input Tokens, 292,441 Output Tokens
 
-💵 $31.93 Estimated AI Cost This Week
+💵 $25.69 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 51 AI Prompts
+🧠 5 AI Sessions, 40 AI Prompts
 
-Opus                     2,996 lines         █████████████████████████   100.00 % 
+Opus                     3,010 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.18% of written lines came from AI
-📄 Detailed Prompter — average 712 characters per prompt
+🤖 AI-Driven — 96.8% of written lines came from AI
+📝 Concise Prompter — average 490 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 4.31% of changed lines were hand-edited
+🚀 High AI Trust — 5.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -196,5 +196,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiefin-Coulibaly/Tiefin-Coulibaly/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 12:42:09 UTC
+ Last Updated on 31/10/2026 12:10:38 UTC
 <!--END_SECTION:waka-->
