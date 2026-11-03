@@ -89,15 +89,11 @@ const mamadou = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2036%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2050%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.49%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.55%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 139.8 kB Used in GitHub's Storage 
+> 📦 140.2 kB Used in GitHub's Storage 
  > 
 > 🏆 487 Contributions in the Year 2026
  > 
@@ -107,78 +103,6 @@ const mamadou = {
  > 
 > 🔑 75 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                502 commits         ███████░░░░░░░░░░░░░░░░░░   28.14 % 
-🌆 Daytime                529 commits         ███████░░░░░░░░░░░░░░░░░░   29.65 % 
-🌃 Evening                645 commits         █████████░░░░░░░░░░░░░░░░   36.15 % 
-🌙 Night                  108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Tuesday                  277 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Wednesday                260 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Thursday                 289 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Friday                   256 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Saturday                 221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Sunday                   240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Regina
-
-💬 Programming Languages: 
-SQL                      6 hrs 16 mins       ███████████░░░░░░░░░░░░░░   44.43 % 
-TypeScript               2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
-Markdown                 2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-JSON                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Python                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-
-🔥 Editors: 
-WebStorm                 7 hrs 37 mins       ██████████████░░░░░░░░░░░   54.07 % 
-Claude Code              4 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.95 % 
-PyCharm                  1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-DataGrip                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-
-🐱‍💻 Projects: 
-san-pedro-digitalization-12 hrs 8 mins       ██████████████████████░░░   86.02 % 
-default                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-PythonProject3           32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-feature_class_creator    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Unknown Project          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-
-💻 Operating System: 
-Windows                  14 hrs 6 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 hrs 42 mins (40.42%)
-
-✍️ 3,278 lines written by AI, 89 lines written by hand (97.36% AI-written)
-
-🔤 1,202,730 Input Tokens, 341,857 Output Tokens
-
-💵 $28.36 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 43 AI Prompts
-
-Opus                     3,499 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 97.36% of written lines came from AI
-📄 Detailed Prompter — average 829 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 4.5% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -196,5 +120,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiefin-Coulibaly/Tiefin-Coulibaly/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2026 15:34:20 UTC
+ Last Updated on 03/11/2026 14:02:42 UTC
 <!--END_SECTION:waka-->
