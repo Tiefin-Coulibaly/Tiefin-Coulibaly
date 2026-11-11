@@ -89,7 +89,7 @@ const mamadou = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2016%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20hrs%206%20mins-blue?style=flat)
 
@@ -134,48 +134,48 @@ Sunday                   245 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Regina
 
 💬 Programming Languages: 
-Markdown                 4 hrs 47 mins       ███████████░░░░░░░░░░░░░░   45.73 % 
-SQL                      3 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   32.93 % 
-Python                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-TypeScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Markdown                 3 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   39.56 % 
+SQL                      3 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.76 % 
+Python                   1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 11 mins       ███████████████░░░░░░░░░░   59.16 % 
-WebStorm                 3 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-PyCharm                  1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Claude Code              4 hrs 54 mins       █████████████░░░░░░░░░░░░   51.69 % 
+WebStorm                 2 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   30.63 % 
+PyCharm                  1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
 
 🐱‍💻 Projects: 
-san-pedro-digitalization-9 hrs 19 mins       ██████████████████████░░░   89.14 % 
-field_alias_alterator    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-DomainExtractor          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-feature_class_creator    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+san-pedro-digitalization-7 hrs 49 mins       █████████████████████░░░░   82.32 % 
+DomainExtractor          48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+field_alias_alterator    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+feature_class_creator    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Windows                  10 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 23 mins (70.59%)
+⏱ AI Coding Time: 5 hrs 54 mins (62.17%)
 
-✍️ 5,830 lines written by AI, 342 lines written by hand (94.46% AI-written)
+✍️ 5,003 lines written by AI, 339 lines written by hand (93.65% AI-written)
 
-🔤 1,754,645 Input Tokens, 546,378 Output Tokens
+🔤 1,585,973 Input Tokens, 446,502 Output Tokens
 
-💵 $57.85 Estimated AI Cost This Week
+💵 $50.01 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 58 AI Prompts
+🧠 4 AI Sessions, 49 AI Prompts
 
-Opus                     6,421 lines         █████████████████████████   100.00 % 
+Opus                     5,568 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.46% of written lines came from AI
-📝 Concise Prompter — average 71 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 8.38% of changed lines were hand-edited
+🤖 AI-Driven — 93.65% of written lines came from AI
+📝 Concise Prompter — average 70 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 9.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -195,5 +195,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiefin-Coulibaly/Tiefin-Coulibaly/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2026 14:46:42 UTC
+ Last Updated on 11/11/2026 14:02:48 UTC
 <!--END_SECTION:waka-->
