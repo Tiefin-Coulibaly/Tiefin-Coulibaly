@@ -134,32 +134,31 @@ Sunday                   245 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Regina
 
 💬 Programming Languages: 
-Markdown                 2 hrs 27 mins       ███████████░░░░░░░░░░░░░░   42.90 % 
-SQL                      1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-Python                   49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Markdown                 2 hrs 27 mins       ███████████░░░░░░░░░░░░░░   44.78 % 
+SQL                      1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   30.17 % 
+Python                   48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 1 min         █████████████░░░░░░░░░░░░   52.79 % 
-WebStorm                 1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   28.44 % 
-PyCharm                  1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Claude Code              3 hrs 1 min         ██████████████░░░░░░░░░░░   55.12 % 
+WebStorm                 1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+PyCharm                  50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
 
 🐱‍💻 Projects: 
-san-pedro-digitalization-4 hrs 39 mins       ████████████████████░░░░░   81.23 % 
-DomainExtractor          48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-feature_class_creator    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-field_alias_alterator    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+san-pedro-digitalization-4 hrs 39 mins       █████████████████████░░░░   84.81 % 
+DomainExtractor          48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+feature_class_creator    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Windows                  5 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 31 mins (61.53%)
+⏱ AI Coding Time: 3 hrs 31 mins (64.25%)
 
 ✍️ 2,244 lines written by AI, 247 lines written by hand (90.08% AI-written)
 
@@ -195,5 +194,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiefin-Coulibaly/Tiefin-Coulibaly/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2026 15:02:47 UTC
+ Last Updated on 13/11/2026 14:28:55 UTC
 <!--END_SECTION:waka-->
