@@ -97,7 +97,7 @@ const mamadou = {
 
 **🐱 My GitHub Data** 
 
-> 📦 140.6 kB Used in GitHub's Storage 
+> 📦 140.5 kB Used in GitHub's Storage 
  > 
 > 🏆 495 Contributions in the Year 2026
  > 
@@ -134,47 +134,47 @@ Sunday                   245 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Regina
 
 💬 Programming Languages: 
-Markdown                 1 hr 56 mins        ███████████░░░░░░░░░░░░░░   45.13 % 
-SQL                      1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   30.42 % 
-Python                   49 mins             █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-TypeScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Python                   49 mins             ███████████████████░░░░░░   74.24 % 
+Markdown                 15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 16 mins       █████████████░░░░░░░░░░░░   52.83 % 
-WebStorm                 1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-PyCharm                  51 mins             █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+PyCharm                  51 mins             ███████████████████░░░░░░   76.68 % 
+Claude Code              11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+WebStorm                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 
 🐱‍💻 Projects: 
-san-pedro-digitalization-3 hrs 26 mins       ████████████████████░░░░░   80.15 % 
-DomainExtractor          49 mins             █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-feature_class_creator    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+DomainExtractor          49 mins             ███████████████████░░░░░░   74.23 % 
+san-pedro-digitalization-15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+feature_class_creator    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 💻 Operating System: 
-Windows                  4 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 42 mins (63.07%)
+⏱ AI Coding Time: 11 mins (16.93%)
 
-✍️ 1,559 lines written by AI, 241 lines written by hand (86.61% AI-written)
+✍️ 0 lines written by AI, 237 lines written by hand (0.0% AI-written)
 
-🔤 707,195 Input Tokens, 224,037 Output Tokens
+🔤 44,076 Input Tokens, 180 Output Tokens
 
-💵 $32.46 Estimated AI Cost This Week
+💵 $0.19 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 25 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-Opus                     1,817 lines         █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.61% of written lines came from AI
-📝 Concise Prompter — average 78 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 20.86% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 60 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -194,5 +194,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiefin-Coulibaly/Tiefin-Coulibaly/main/assets/bar_graph.png)
 
 
- Last Updated on 14/11/2026 13:24:40 UTC
+ Last Updated on 15/11/2026 13:51:58 UTC
 <!--END_SECTION:waka-->
