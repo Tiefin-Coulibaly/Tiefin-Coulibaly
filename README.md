@@ -134,33 +134,28 @@ Sunday                   245 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Regina
 
 💬 Programming Languages: 
-Python                   49 mins             ███████████████████░░░░░░   74.24 % 
-Markdown                 15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Python                   32 mins             █████████████████░░░░░░░░   67.65 % 
+Markdown                 15 mins             ████████░░░░░░░░░░░░░░░░░   32.35 % 
 
 🔥 Editors: 
-PyCharm                  51 mins             ███████████████████░░░░░░   76.68 % 
-Claude Code              11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-WebStorm                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+PyCharm                  32 mins             █████████████████░░░░░░░░   67.65 % 
+Claude Code              11 mins             ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+WebStorm                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
 
 🐱‍💻 Projects: 
-DomainExtractor          49 mins             ███████████████████░░░░░░   74.23 % 
-san-pedro-digitalization-15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-feature_class_creator    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+DomainExtractor          32 mins             █████████████████░░░░░░░░   67.65 % 
+san-pedro-digitalization-15 mins             ████████░░░░░░░░░░░░░░░░░   32.35 % 
 
 💻 Operating System: 
-Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
+Windows                  48 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (16.93%)
+⏱ AI Coding Time: 11 mins (23.5%)
 
-✍️ 0 lines written by AI, 237 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 44,076 Input Tokens, 180 Output Tokens
 
@@ -171,10 +166,10 @@ Windows                  1 hr 6 mins         ███████████�
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
 📝 Concise Prompter — average 60 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -194,5 +189,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiefin-Coulibaly/Tiefin-Coulibaly/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2026 15:34:20 UTC
+ Last Updated on 17/11/2026 15:54:24 UTC
 <!--END_SECTION:waka-->
