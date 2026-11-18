@@ -134,42 +134,39 @@ Sunday                   245 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Regina
 
 💬 Programming Languages: 
-Python                   32 mins             █████████████████░░░░░░░░   67.65 % 
-Markdown                 15 mins             ████████░░░░░░░░░░░░░░░░░   32.35 % 
+JSON                     2 hrs 57 mins       █████████████████████████   99.84 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-PyCharm                  32 mins             █████████████████░░░░░░░░   67.65 % 
-Claude Code              11 mins             ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-WebStorm                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+PyCharm                  2 hrs 53 mins       ████████████████████████░   97.51 % 
+Copilot CLI              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 🐱‍💻 Projects: 
-DomainExtractor          32 mins             █████████████████░░░░░░░░   67.65 % 
-san-pedro-digitalization-15 mins             ████████░░░░░░░░░░░░░░░░░   32.35 % 
+feature_class_creator    2 hrs 57 mins       █████████████████████████   99.84 % 
+PythonProject4           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Windows                  48 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (23.5%)
+⏱ AI Coding Time: 4 mins (2.49%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 134 lines written by hand (0.0% AI-written)
 
-🔤 44,076 Input Tokens, 180 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.19 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
 🧠 1 AI Sessions, 1 AI Prompts
 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 60 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 669 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -189,5 +186,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiefin-Coulibaly/Tiefin-Coulibaly/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2026 15:54:24 UTC
+ Last Updated on 18/11/2026 15:32:41 UTC
 <!--END_SECTION:waka-->
