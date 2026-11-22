@@ -134,25 +134,30 @@ Sunday                   245 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Regina
 
 💬 Programming Languages: 
-JSON                     3 hrs 15 mins       █████████████████████████   99.86 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+JSON                     3 hrs 22 mins       ████████████████████████░   96.40 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 11 mins       ████████████████████████░   97.74 % 
-Copilot CLI              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+PyCharm                  3 hrs 11 mins       ███████████████████████░░   91.13 % 
+WebStorm                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Copilot CLI              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🐱‍💻 Projects: 
-feature_class_creator    3 hrs 15 mins       █████████████████████████   99.86 % 
-PythonProject4           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+feature_class_creator    3 hrs 15 mins       ███████████████████████░░   93.10 % 
+san-pedro-digitalization-14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+PythonProject4           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (2.26%)
+⏱ AI Coding Time: 4 mins (2.11%)
 
 ✍️ 0 lines written by AI, 134 lines written by hand (0.0% AI-written)
 
@@ -186,5 +191,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiefin-Coulibaly/Tiefin-Coulibaly/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2026 14:32:37 UTC
+ Last Updated on 22/11/2026 14:28:45 UTC
 <!--END_SECTION:waka-->
