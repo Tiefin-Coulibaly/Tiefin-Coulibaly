@@ -99,7 +99,7 @@ const mamadou = {
 
 > 📦 140.5 kB Used in GitHub's Storage 
  > 
-> 🏆 497 Contributions in the Year 2026
+> 🏆 538 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -134,44 +134,48 @@ Sunday                   245 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Regina
 
 💬 Programming Languages: 
-JSON                     3 hrs 22 mins       ████████████████████████░   96.40 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+SQL                      4 hrs 38 mins       ████████████████░░░░░░░░░   63.36 % 
+JSON                     1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 11 mins       ███████████████████████░░   91.13 % 
-WebStorm                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Copilot CLI              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+DataGrip                 4 hrs 16 mins       ███████████████░░░░░░░░░░   58.45 % 
+WebStorm                 1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+PyCharm                  53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Claude Code              43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
 
 🐱‍💻 Projects: 
-feature_class_creator    3 hrs 15 mins       ███████████████████████░░   93.10 % 
-san-pedro-digitalization-14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-PythonProject4           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+default                  4 hrs 38 mins       ████████████████░░░░░░░░░   63.36 % 
+conformer                1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+feature_class_creator    53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+san-pedro-digitalization-16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 💻 Operating System: 
-Windows                  3 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (2.11%)
+⏱ AI Coding Time: 53 mins (12.09%)
 
-✍️ 0 lines written by AI, 134 lines written by hand (0.0% AI-written)
+✍️ 928 lines written by AI, 1,097 lines written by hand (45.83% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 73,669 Input Tokens, 26,001 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $1.99 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 14 AI Prompts
+
+Opus                     928 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 669 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+⚖️ Balanced with AI — 45.83% of written lines came from AI
+📚 Verbose Prompter — average 2,293 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 55.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -191,5 +195,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiefin-Coulibaly/Tiefin-Coulibaly/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2026 17:29:31 UTC
+ Last Updated on 25/11/2026 17:06:15 UTC
 <!--END_SECTION:waka-->
