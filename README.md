@@ -89,9 +89,9 @@ const mamadou = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20hrs%2056%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.57%20million%20lines%20of%20code-blue?style=flat)
 
@@ -134,30 +134,30 @@ Sunday                   245 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Regina
 
 💬 Programming Languages: 
-YAML                     2 hrs 48 mins       ██████████████░░░░░░░░░░░   55.98 % 
-JSON                     1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   29.19 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+YAML                     2 hrs 48 mins       ███████████████░░░░░░░░░░   59.53 % 
+JSON                     1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 🔥 Editors: 
-WebStorm                 4 hrs 7 mins        █████████████████████░░░░   82.10 % 
-PyCharm                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Claude Code              26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+WebStorm                 4 hrs 7 mins        ██████████████████████░░░   87.30 % 
+Claude Code              26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+PyCharm                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 
 🐱‍💻 Projects: 
-conformer                4 hrs 16 mins       █████████████████████░░░░   85.26 % 
-feature_class_creator    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-san-pedro-digitalization-17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+conformer                4 hrs 16 mins       ███████████████████████░░   90.67 % 
+san-pedro-digitalization-17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+feature_class_creator    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 
 💻 Operating System: 
-Windows                  5 hrs               █████████████████████████   100.00 % 
+Windows                  4 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 mins (11.35%)
+⏱ AI Coding Time: 34 mins (12.07%)
 
 ✍️ 928 lines written by AI, 26 lines written by hand (97.27% AI-written)
 
@@ -193,5 +193,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tiefin-Coulibaly/Tiefin-Coulibaly/main/assets/bar_graph.png)
 
 
- Last Updated on 26/11/2026 16:46:48 UTC
+ Last Updated on 27/11/2026 16:32:43 UTC
 <!--END_SECTION:waka-->
